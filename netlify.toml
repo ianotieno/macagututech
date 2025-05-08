@@ -1,0 +1,8 @@
+[build]
+  functions = "functions"
+  publish = "./"
+
+[dev]
+  command = ""
+  port = 8888
+  functionsPort = 34567  # Optional: Specify a port for functions
